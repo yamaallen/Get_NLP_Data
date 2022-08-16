@@ -1,4 +1,4 @@
-# NLP in real lift
+# NLP in real life
 
 ## Twitter crawl
 
